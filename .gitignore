@@ -4,5 +4,11 @@ __pycache__/
 
 data/processed/
 data/raw/data.csv
+data/raw/archive.zip
+
+logs/
+*.log
+
+.ipynb_checkpoints/
 
 .env
